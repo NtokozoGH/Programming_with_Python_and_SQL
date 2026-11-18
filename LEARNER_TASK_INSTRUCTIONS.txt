@@ -1,0 +1,28 @@
+PM-06-PS02: PYTHON AND SQL PRACTICAL ASSIGNMENT
+
+Download and extract the complete assignment pack. Keep the Jupyter Notebook,
+SQLite database, SQL file and CSV datasets in the same project folder.
+
+Complete the guided notebook from beginning to end. This assignment assesses:
+
+PA0201 – Conduct basic programming
+PA0202 – Apply selected basic mathematical principles and methods
+PA0203 – Use algorithms
+PA0204 – Work with software packages, with a focus on Python, pandas, SQLite and SQL
+
+SUBMISSION
+1. Create a public GitHub repository.
+2. Upload the completed notebook, completed SQL file, smartstore.db, all original
+   datasets, exported results and a README.md.
+3. Ensure all written answers and notebook outputs are visible.
+4. Submit the full GitHub repository link.
+5. Record and submit a 5–10 minute Loom video explaining:
+   - the Python concepts used;
+   - mathematical calculations;
+   - the algorithm and its test cases;
+   - key SQL queries and joins;
+   - how SQL results were used in pandas;
+   - main findings and recommendations.
+
+Your assessor must be able to open both links without requesting permission.
+You must be able to explain all submitted code.
